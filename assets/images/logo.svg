@@ -1,0 +1,8 @@
+<svg width="240" height="58" viewBox="0 0 240 58" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Signal Processing and AI Lab logo">
+  <defs><linearGradient id="g" x1="0" x2="130" y1="0" y2="58" gradientUnits="userSpaceOnUse"><stop stop-color="#1d4ed8"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+  <path d="M5 30h13l4-14 8 30 7-40 8 24h14" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="79" cy="12" r="4" fill="#0ea5e9"/><circle cx="102" cy="18" r="4" fill="#2563eb"/><circle cx="91" cy="38" r="4" fill="#7c3aed"/><circle cx="122" cy="39" r="4" fill="#0ea5e9"/><circle cx="125" cy="10" r="4" fill="#2563eb"/>
+  <path d="M79 12l23 6M79 12l12 26M102 18l23-8M102 18l20 21M91 38l31 1M91 38l34-28" stroke="#0f5fd8" stroke-width="2" opacity=".9"/>
+  <text x="145" y="25" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#0b1b3d">SPAI</text>
+  <text x="145" y="42" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#526174">LAB</text>
+</svg>
